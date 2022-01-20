@@ -11,7 +11,6 @@ My PGP Public Key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: User-ID:    Derpitron <priya.aravamuthan@protonmail.com>
-Comment: Created:    05-Jan-22 9:57 AM
 Comment: Type:    255-bit EdDSA (secret key available)
 Comment: Usage:    Signing, Encryption, Certifying User-IDs
 Comment: Fingerprint:    5CF793D8965B5810CE232AEAD27D9A08591E7EE2
