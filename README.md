@@ -2,7 +2,7 @@
 
 I jump around between hobbies often. Here are some stats!  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derpitron&count_private=true&show_icons=true&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hydino2085143&count_private=true&show_icons=true&theme=nord)
 
 - 📫 How to reach me: [priya.aravamuthan@protonmail.com](mailto:priya.aravamuthan@protonmail.com)
 - 😄 Pronouns: He/Him/His
