@@ -2,7 +2,8 @@
 
 I jump around between hobbies often. Here are some stats!
 
-- 📫 How to reach me: [priya.aravamuthan@protonmail.com](mailto:priya.aravamuthan@protonmail.com)
+- My email address: [priya.aravamuthan@protonmail.com](mailto:priya.aravamuthan@protonmail.com)
+- My Discord ID:    Derpitron#9744
 
 My PGP Public Key:
 ```
