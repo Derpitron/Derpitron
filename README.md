@@ -1,4 +1,6 @@
-# Hi 👋, I'm Derpitron</h1>
+# Hi 👋, I'm Derpitron
+
+![kde-5.18-nord.png](kde-5.18-nord.png)
 
 ### About me:
 
