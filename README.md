@@ -2,7 +2,10 @@
 
 ![kde-5.18-nord.png](kde-5.18-nord.png)
 
-### About me:
+I work on many different projects as a hobby, most of them either abandoned or in "indefinite hiatus". If you really want something done, send me an email or file an issue.
+Here's some markdown magic:
+
+## About me:
 
 |                       |                                                                             |
 |-----------------------|-----------------------------------------------------------------------------|
@@ -45,7 +48,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>
-  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
