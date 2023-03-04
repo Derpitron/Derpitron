@@ -16,9 +16,6 @@ Here's some markdown magic:
 
 ## Cool Stats:
 
-| [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Derpitron&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) |
-| :---: |
-
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derpitron&count_private=true&show_icons=true&card_width=350&include_all_commits=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derpitron&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats) |
 | :---: | :---: |
 
