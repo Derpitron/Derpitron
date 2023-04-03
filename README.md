@@ -1,6 +1,9 @@
 # Hi 👋, I'm Derpitron
+## A.k.a Aadhithya Narayanan Madhusudhanan
 
 ![kde-5.18-nord.png](kde-5.18-nord.png)
+
+Currently studying Data Science and AI/Machine Learning in High school.
 
 I work on many different projects as a hobby, most of them either abandoned or in "indefinite hiatus". If you really want something done, send me an email or file an issue.
 Here's some markdown magic:
