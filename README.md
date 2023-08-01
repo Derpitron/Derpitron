@@ -1,5 +1,4 @@
 # Hi 👋, I'm Derpitron
-## A.k.a Aadhithya Narayanan Madhusudhanan
 
 ![kde-5.18-nord.png](kde-5.18-nord.png)
 
@@ -13,7 +12,7 @@ Here's some markdown magic:
 |                       |                                                                             |
 |-----------------------|-----------------------------------------------------------------------------|
 | email                 | [priya.aravamuthan@protonmail.com](mailto:priya.aravamuthan@protonmail.com) |
-| discord               | @derpitron                                                              |
+| discord               | @derpitron                                                                  |
 | beamng                | [Derpitron](https://www.beamng.com/members/derpitron.241773/)               |
 | favorite color scheme | [Nord](https://nordtheme.com)                                               |
 
