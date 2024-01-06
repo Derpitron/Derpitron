@@ -11,7 +11,7 @@ Here's some markdown magic:
 
 |                       |                                                                             |
 |-----------------------|-----------------------------------------------------------------------------|
-| email                 | [priya.aravamuthan@protonmail.com](mailto:priya.aravamuthan@protonmail.com) |
+| email                 | [priya.aravamuthan@protonmail.com](mailto:priya.aravamuthan@protonmail.com), [amadhusudhanan.personal@gmail.com](mailto:amadhusudhanan.personal@gmail.com) |
 | discord               | @derpitron                                                                  |
 | beamng                | [Derpitron](https://www.beamng.com/members/derpitron.241773/)               |
 | favorite color scheme | [Nord](https://nordtheme.com)                                               |
