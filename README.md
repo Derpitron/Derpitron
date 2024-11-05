@@ -2,7 +2,7 @@
 
 ![kde-5.18-nord.png](kde-5.18-nord.png)
 
-I work on many different projects as a hobby, most of them either abandoned or in "indefinite hiatus". If you really want something done, do not hesitate to message me, send me an email or file an issue.
+I try to work on many different projects and fields as hobbies. Please do not hesitate to message me, send me an email or file an issue if you'd like me to fix something of mine that you use!
 Here's some markdown magic:
 
 ## About me:
@@ -10,7 +10,6 @@ Here's some markdown magic:
 |                       |                                                                             |
 |-----------------------|-----------------------------------------------------------------------------|
 | email                 | [aadhithyanm@protonmail.com](mailto:aadhithyanm@protonmail.com), [amadhusudhanan.personal@gmail.com](mailto:amadhusudhanan.personal@gmail.com) |
-| discord               | @derpitron                                                                  |
 | matrix                | @derpitron:matrix.org                                                                            |
 | beamng                | [Derpitron](https://www.beamng.com/members/derpitron.241773/)               |
 | favorite color scheme | [Nord](https://nordtheme.com)                                               |
