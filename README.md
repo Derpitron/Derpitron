@@ -9,16 +9,10 @@ Here's some markdown magic:
 
 |                       |                                                                             |
 |-----------------------|-----------------------------------------------------------------------------|
-| email                 | [aadhithyanm@protonmail.com](mailto:aadhithyanm@protonmail.com), [amadhusudhanan.personal@gmail.com](mailto:amadhusudhanan.personal@gmail.com) |
+| email                 | [aadhithyanm@protonmail.com](mailto:aadhithyanm@protonmail.com) |
 | matrix                | @derpitron:matrix.org                                                                            |
 | beamng                | [Derpitron](https://www.beamng.com/members/derpitron.241773/)               |
 | favorite color scheme | [Nord](https://nordtheme.com)                                               |
-
-## Cool Stats:
-
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derpitron&count_private=true&show_icons=true&card_width=350&include_all_commits=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derpitron&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats) |
-| :---: | :---: |
-
 
 ## My PGP Public Key:
 
